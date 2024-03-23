@@ -7,7 +7,7 @@ const NavPart = () => {
     <div className="fixed ">
       <div className={window.innerWidth > 767 ? "px-5" : "px-2"}>
         <Navbar collapseOnSelect expand="lg" className=" p-0">
-          <Navbar.Brand href="/" className="logo p-0">
+          <Navbar.Brand href="" className="logo p-0">
             Apple
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
