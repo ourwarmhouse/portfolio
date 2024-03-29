@@ -28,10 +28,6 @@ const Contact = () => {
               <span className="chonburi-font green-text">Email:</span>{" "}
               bigodapple1990@gmail.com
             </h5>
-            <h5 className="mb-4">
-              <span className="chonburi-font green-text">Phone:</span>{" "}
-              +1 (712) 883-0221
-            </h5>
           </Col>
         </Row>
       </motion.div>
