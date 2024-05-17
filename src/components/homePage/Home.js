@@ -30,7 +30,7 @@ const Home = ({countData}) => {
                 <TransformText  /> 
                 </motion.h5>
                 <motion.h1 variants={titleAnim} className="mb-4">
-                  Hi, I'm a&nbsp;<span className="chonburi-font green-text">Full Stack</span>&nbsp;
+                  Hi, I'm William Jones, a&nbsp;<span className="chonburi-font green-text">Full Stack</span>&nbsp;
                   Developer
                 </motion.h1>
                 <motion.h2 variants={titleAnim} className="mb-4">
