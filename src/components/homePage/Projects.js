@@ -29,33 +29,31 @@ const myProjects = [
     liveweb: "https://www.indemar.pl/en",
   },
   {
-    image: "images/laravel.jpg",
-    title: "With Laravel",
+    image: "images/1.png",
+    title: "RFleet AI",
     description:
       "This page is designed using Laravel , Vue.js, json mocker User can upload post Like and comment on other post also.",
     source: "https://github.com/amananku26/Linkedin-Clone",
-    demoLink: "https://linkedin-clone-a7ba5.web.app/",
+    demoLink: "https://rfleet.ai/",
     badge: "Laravel",
-    liveweb: "https://www.youtube.com/watch?v=CA1xCJvSCw8&t=32s",
+    liveweb: "https://rfleet.ai/",
   },
   {
     image: "images/Vue.jpg",
-    title: "Travel Polish",
-    description:
-      "This site is developed vue.js as frontend and laravel as backend",
-    source: "https://www.karaiby.pl/",
-    badge: "Vue.js",
-    demoLink: "https://www.karaiby.pl/",
+    title: "NouNou",
+    description: "This site is developed Next.js as frontend and laravel as backend",
+    source: "https://nounou.co.za/",
+    badge: "Next.js",
+    demoLink: "https://nounou.co.za/",
   },
   {
-    image: "images/Screenshot 2020-10-14 115302.jpg",
-    title: "Shopping Cart",
-    description:
-      "User can Filter thrughout the Products ex - Sort Price , filter category",
+    image: "images/vetting.jpg",
+    title: "Betting",
+    description: "I have developed this hybrid app using flutter and firebase",
     source: "https://github.com/amananku26/Basic-Shopping-Cart",
     demoLink: "https://shopping-cart-a0d9a.web.app/",
-    badge: "Shopify",
-    liveweb: "https://www.youtube.com/watch?v=ukYdUnHidq8",
+    badge: "Flutter",
+    liveweb: "",
   }
 ];
 

@@ -29,7 +29,7 @@ const About = () => {
           <Col className="p-0 text-center" md={5}>
             <img
               placeholder="images/skills/lod.jpeg"
-              src="images/com.jpg"
+              src="images/avatar.png"
               with={350}
               height={350}
               error="images/skills/error.png"
